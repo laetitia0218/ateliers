@@ -1,0 +1,30 @@
+Afghanistan	kaboul
+Albanie	tirana
+Algérie	alger
+Allemagne	berlin
+Andorre	andorre-la-vieille
+Angola	luanda
+Antigua-et-Barbuda	saint John's
+Arabie saoudite	riyad
+Argentine	buenos aires
+Arménie	erevan
+Australie	canberra
+Autriche	vienne
+Azerbaïdjan	bakou
+Bahamas	nassau
+Bahreïn	manama
+Bangladesh	dacca
+Barbade	bridgetown
+Belgique	bruxelles
+Bélize	belmopan
+Bénin	porto-novo
+Bhoutan	thimphou
+Biélorussie	minsk
+Birmanie	naipyidaw
+Bolivie	sucre
+Bosnie-Herzégovine	sarajevo
+Botswana	gaborone
+Brésil	brasilia
+Brunei	brunei
+Bulgarie	sofia
+Burkina Faso	ouagadougou
